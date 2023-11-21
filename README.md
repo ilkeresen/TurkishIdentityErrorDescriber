@@ -74,7 +74,3 @@ View dosyamıza asp-validation-summary="ModelOnly" olan bir div ekliyoruz.
 ![/Register/Index](https://img-c.udemycdn.com/redactor/raw/q_and_a/2022-08-08_20-37-30-9b7993ae5b5a2af4799e42087f4c22fc.png "/Register/Index")
 
 Takıldığınız sormak istediğiniz bir yer olursa ulaşabilirsiniz : https://tr.linkedin.com/in/ilker-esen
-
-## Katkıda bulunanlar
-
-[Sinan İLYAS](https://github.com/sinanilyas/)
